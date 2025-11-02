@@ -1,1 +1,1 @@
-# K&R C Proramming Exercises
+# K&R C Programming Exercises
