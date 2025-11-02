@@ -1,0 +1,8 @@
+*.o
+*.out
+a.out
+*.obj
+*.exe
+build/
+.vscode/
+*.swp
